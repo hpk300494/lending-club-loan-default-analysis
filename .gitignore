@@ -1,1 +1,34 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Dataset
+loan.csv
+clean_loan.csv
+master_loan.csv
+
+# Generated plots
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
